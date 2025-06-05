@@ -1,4 +1,4 @@
-# REST API 명세서
+# REST API 명세서.
 
 ## 1. 사용자 관련 API
 
